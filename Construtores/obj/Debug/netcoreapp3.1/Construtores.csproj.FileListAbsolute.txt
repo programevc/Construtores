@@ -1,0 +1,13 @@
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.exe
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.deps.json
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.json
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.runtimeconfig.dev.json
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.dll
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\bin\Debug\netcoreapp3.1\Construtores.pdb
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csprojAssemblyReference.cache
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfoInputs.cache
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.AssemblyInfo.cs
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.csproj.CoreCompileInputs.cache
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.dll
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.pdb
+E:\Programe vc\Aulas\Codigo\Construtores\Construtores\Construtores\obj\Debug\netcoreapp3.1\Construtores.genruntimeconfig.cache
